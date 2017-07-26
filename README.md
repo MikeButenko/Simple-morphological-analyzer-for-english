@@ -1,6 +1,6 @@
 # Simple-morphological-analyzer-for-english
 
-Tag      Description
+Tag   -   Description
 
 CC - Coordinating conjunction <br />
 CD - Cardinal number <br />
