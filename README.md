@@ -1,0 +1,1 @@
+# Simple-morphological-analyzer-for-english
