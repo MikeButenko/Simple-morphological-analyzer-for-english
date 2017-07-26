@@ -1,7 +1,7 @@
 # Simple-morphological-analyzer-for-english
 
-Tag      Description
-CC - Coordinating conjunction
+#Tag      Description
+#CC - Coordinating conjunction
 CD - Cardinal number
 DT - Determiner
 EX - Existential there
